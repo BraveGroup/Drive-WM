@@ -31,3 +31,4 @@ Our code is based on the open-source project diffusers.
 Many thanks to the following open-source projects:
 * [diffusers](https://github.com/huggingface/diffusers)
 
+
